@@ -1,0 +1,15 @@
+{
+  "name": "products-file-api",
+  "version": "1.0.0",
+  "description": "Simple Express API for managing products using local JSON file storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "api", "products", "file-storage"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
